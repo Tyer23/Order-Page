@@ -5,12 +5,19 @@ A web-based application developed using PHP, MySQL, HTML, and CSS. Users can sel
 ## Features
 
 -**Order Management:** Store and retrieve customer order information, including customer names, menu selections, order costs, and order times.
+
 -**Order Searching:** Search for orders by customer first name or menu item.
+
 -**Order Filtering:** View all orders or filter orders by pending status.
+
 -**Order Sorting:** Sort orders by cost in descending order.
+
 -**Order Status Updates:** Update the status of customer orders.
+
 -**Order Deletion:** Delete orders according to their status and the application's business rules.
+
 -**Database Integration:** Use MySQL to store and manage order records.
+
 -**Admin Interface:** Provide an interface for administrators to manage restaurant orders.
 
 ## Technologies Used
