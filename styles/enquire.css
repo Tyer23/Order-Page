@@ -1,0 +1,126 @@
+/*
+filename: Quoc Co Luc
+Css by: Prabesh Bhattarai and Danny Osman
+Created: 15/09/2022
+Last modified: 15/09/2022
+Description: refers to enquire.html
+*/
+
+.menu {
+  border: solid rgb(190, 192, 190);
+  text-decoration: none;
+  margin-top: 2%;
+  border-radius: 10%;
+}
+
+.menu:hover {
+  background-color: rgb(193, 200, 195);
+}
+
+header {
+  padding: 40px;
+
+  background-color: rgb(10, 179, 21);
+  margin: auto;
+  text-align: center;
+  font-size: 55px;
+  
+  text-shadow: 5px 5px 5px rgb(56, 57, 56);
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(255, 255, 255);
+}
+
+h1 {
+  color: #fff;
+}
+
+span {
+  font-variant: small-caps;
+  font-stretch: condensed;
+  padding: 10px;
+}
+
+p,
+h2,
+h3,
+li,
+legend {
+  line-height: 175%;
+  text-align: center;
+}
+
+fieldset {
+  border: 10px solid rgb(190, 188, 188);
+}
+
+a {
+  color: rgb(100, 104, 104);
+}
+
+body {
+  font-family: sans-serif;
+}
+
+body {
+  background-color: rgb(223, 228, 232);
+}
+
+textarea {
+  padding: 40px;
+}
+
+#submit_reset {
+  margin-right: 5px;
+}
+
+.delivery_option {
+  text-align: center;
+}
+
+#email {
+  margin-right: 17%;
+}
+
+h2 {
+  text-align: center;
+}
+
+footer {
+  background-color: black;
+  bottom: 0;
+  left: 0;
+  margin: 0%;
+  width: 100%;
+}
+
+footer p {
+  color: rgb(223, 221, 221);
+}
+
+footer p:first-child {
+  text-align: left;
+  display: inline-block;
+  margin-top: 2%;
+  margin-left: 2%;
+  margin-bottom: 5%;
+}
+
+#left a {
+  color: rgb(227, 221, 221);
+  font-family: cursive;
+  margin-left: 1%;
+  text-decoration: none;
+}
+
+#left a:hover {
+  color: rgb(170, 166, 166);
+  text-decoration: underline;
+}
+
+
+#right {
+  margin-left: 70%;
+  color: rgb(227, 221, 221);
+  font-family: cursive;
+}
+
