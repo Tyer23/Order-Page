@@ -49,8 +49,10 @@ Install [XAMPP](https://www.apachefriends.org/) with Apache and MySQL.
 The application uses two tables:
 
 - `orders` — stores orders details
+
 - `table_admin` — stores admin details
-'orders': 
+  
+**'orders'**: 
 CREATE TABLE orders (
     Order_id INT AUTO_INCREMENT PRIMARY KEY,
     Order_time DATETIME NOT NULL,
@@ -78,7 +80,7 @@ CREATE TABLE orders (
     cvv VARCHAR(10)
 );
 
-'table_admin':
+**'table_admin':**
 CREATE TABLE table_admin (
     id INT AUTO_INCREMENT PRIMARY KEY,
     Username VARCHAR(50) NOT NULL UNIQUE,
