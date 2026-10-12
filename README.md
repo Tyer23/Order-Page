@@ -1,4 +1,4 @@
-# My Friend System
+# Restaurant Order Page
 
 A web-based application developed using PHP, MySQL, HTML, and CSS. Users can select and order recipes, log in, add and manage admin + orders.
 
